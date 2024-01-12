@@ -17,10 +17,9 @@ $(document).ready(function () {
   // typing animation
   var typed = new Typed('.typing', {
     strings: [
-      'Desenvolvedora Web',
-      'Analista de Sistemas',
-      'Apaixonada por Códigos',
-      'Gamer',
+      'Analista de Suporte',
+      'Futuro Analista de Sistemas',
+      'Apaixonada por tecnologia',
     ],
     typeSpeed: 100,
     backSpeed: 60,
